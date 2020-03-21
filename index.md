@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Welcome to my tutorial          
-## [RNA-seq Analisys Course ](https://bioinfo-dirty-jobs.github.io/rana2/)
+## [Trascriptomics course](https://bioinfo-dirty-jobs.github.io/rna2020/.)
 
 ___
 
